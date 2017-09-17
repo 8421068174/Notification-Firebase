@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350153806785",
+    "firebase_url": "https://notification-firebase-bac68.firebaseio.com",
+    "project_id": "notification-firebase-bac68",
+    "storage_bucket": "notification-firebase-bac68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350153806785:android:088d972d9b1bf7ae",
+        "android_client_info": {
+          "package_name": "nikam.com.notification_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350153806785-qns6k0hbq7rs86oasbsq4vlsl9h0va6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nikam.com.notification_firebase",
+            "certificate_hash": "d9618f62b4957ed61c52efdee419711394a0a004"
+          }
+        },
+        {
+          "client_id": "350153806785-eilgr8icfmmkg0ab1bqnu0bkd05c485h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNHR5AZ0aXZ3F52eIFA2-B9_x2YuyqIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350153806785-eilgr8icfmmkg0ab1bqnu0bkd05c485h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
